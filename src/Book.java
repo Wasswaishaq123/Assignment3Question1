@@ -2,6 +2,7 @@ public class Book {
     public String title;
     public String author;
     private String isbn;
+    private String isbn;
     int copiesAvailable;
 
     public Book(String title,String author,String isbn,int copiesAvailable){
